@@ -1,0 +1,15 @@
+﻿# Obsidian: estado local e segredos
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-local-rest-api/
+.obsidian/plugins/obsidian-git/data.json
+
+# Chaves/certificados e scripts de configuracao local
+03_Recursos/obsidian-local-rest-api-ca.crt
+03_Recursos/setup_obsidian_mcp.ps1
+.mcp.json
+
+.trash/
+.DS_Store
+Thumbs.db
